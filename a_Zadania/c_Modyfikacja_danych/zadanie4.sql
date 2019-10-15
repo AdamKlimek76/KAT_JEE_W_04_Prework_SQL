@@ -1,0 +1,1 @@
+UPDATE students SET email="rachela.kosowska@wp.pl" WHERE student_id=2;

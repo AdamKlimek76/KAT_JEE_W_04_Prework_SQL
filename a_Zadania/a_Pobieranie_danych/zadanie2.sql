@@ -1,0 +1,1 @@
+SELECT * FROM teachers WHERE pay > 5000;

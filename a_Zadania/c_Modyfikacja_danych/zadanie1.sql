@@ -1,0 +1,1 @@
+UPDATE students SET name="Józef Nowak" WHERE teacher_id=6;

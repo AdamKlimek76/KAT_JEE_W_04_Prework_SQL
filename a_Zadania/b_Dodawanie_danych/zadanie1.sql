@@ -1,0 +1,1 @@
+INSERT INTO teachers VALUES (6, "Jan Kowalski", 1800);
